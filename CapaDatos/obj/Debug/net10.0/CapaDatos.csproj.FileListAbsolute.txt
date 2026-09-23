@@ -1,0 +1,12 @@
+C:\Users\juanp\OneDrive\Desktop\calses\GestionCampanasDB\CapaDatos\bin\Debug\net10.0\CapaDatos.deps.json
+C:\Users\juanp\OneDrive\Desktop\calses\GestionCampanasDB\CapaDatos\bin\Debug\net10.0\CapaDatos.dll
+C:\Users\juanp\OneDrive\Desktop\calses\GestionCampanasDB\CapaDatos\bin\Debug\net10.0\CapaDatos.pdb
+C:\Users\juanp\OneDrive\Desktop\calses\GestionCampanasDB\CapaDatos\obj\Debug\net10.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\juanp\OneDrive\Desktop\calses\GestionCampanasDB\CapaDatos\obj\Debug\net10.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\OneDrive\Desktop\calses\GestionCampanasDB\CapaDatos\obj\Debug\net10.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\juanp\OneDrive\Desktop\calses\GestionCampanasDB\CapaDatos\obj\Debug\net10.0\CapaDatos.AssemblyInfo.cs
+C:\Users\juanp\OneDrive\Desktop\calses\GestionCampanasDB\CapaDatos\obj\Debug\net10.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\juanp\OneDrive\Desktop\calses\GestionCampanasDB\CapaDatos\obj\Debug\net10.0\CapaDatos.dll
+C:\Users\juanp\OneDrive\Desktop\calses\GestionCampanasDB\CapaDatos\obj\Debug\net10.0\refint\CapaDatos.dll
+C:\Users\juanp\OneDrive\Desktop\calses\GestionCampanasDB\CapaDatos\obj\Debug\net10.0\CapaDatos.pdb
+C:\Users\juanp\OneDrive\Desktop\calses\GestionCampanasDB\CapaDatos\obj\Debug\net10.0\ref\CapaDatos.dll
